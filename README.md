@@ -4,8 +4,9 @@ building when new markdown articles are written. Mixture of blog and static
 sites for specific tools.
 
 ## TODO
-[] Make theme
-[] Set Up GitHub Actions
-[] Tools
-    [] Quick Search
-    [] Time Converter
+[ ] Make theme
+[ ] Set Up GitHub Actions
+[ ] Tools
+    [ ] Quick Search
+    [ ] Time Converter
+    [ ] Add Tutorial

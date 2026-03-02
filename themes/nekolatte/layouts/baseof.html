@@ -10,7 +10,12 @@
   <main id="grid">
     {{ partial "nav.html" . }}
     <section id="content">
+      <div class="section-title">
+        🖹 Content
+      </div>
+      <div class="welcome">
         {{ block "main" . }}{{ end }}
+      </div>
     </section>
     {{ partial "updates.html" . }}
   </main>

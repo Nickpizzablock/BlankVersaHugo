@@ -1,0 +1,7 @@
+{{ range .Headings }}
+  {{ if gt .Level 0 }}
+    <div><a class="toc-level-{{ .Level }}"
+            href="#{{ .ID }}">{{ .Title | htmlUnescape }}</a></div>
+  {{ end }}
+  {{ partial "toc_level.html" . }}
+{{ end }}

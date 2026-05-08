@@ -1,7 +1,7 @@
 +++
 date = '2026-03-02T11:53:45-08:00'
 draft = true
-title = '♥ About Me ♥'
+title = 'About Me'
 +++
 
 [VRChat Profile](https://vrchat.com/home/user/usr_ff1683e8-58b8-4311-8e72-138b709ac583) 

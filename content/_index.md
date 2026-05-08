@@ -10,11 +10,11 @@ Hihi♥ I'm BlankVersa! Thanks for stopping by.
 I plan to create a content-creator focused page to house all the things I'd 
 like to share.
 
-Here, you can find more [about me](/html/personal/aboutme.html)! 
+Here, you can find more [about me](personal/aboutme)! 
 Useful sites will house my bookmarks, and I hope they can be helpful for you 
 too.
 
 I haven't been watching anime, but when I do, I have so much to talk about, so 
-you can see my reviews [here](/anime.html). I love many generes of 
+you can see my reviews [here](/anime). I love many generes of 
 music; check out my write-ups here. I am really into computers and 
 documentation, so here's a collection of what I have solved.

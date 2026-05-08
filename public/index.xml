@@ -2,31 +2,66 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Home on My New Hugo Project</title>
-    <link>https://example.org/</link>
+    <link>http://localhost:1313/</link>
     <description>Recent content in Home on My New Hugo Project</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 15 Mar 2023 11:00:00 -0700</lastBuildDate>
-    <atom:link href="https://example.org/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 04 Mar 2026 09:55:49 -0800</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Linux Remote Desktop on Vr</title>
+      <link>http://localhost:1313/blog/linux-remote-desktop-on-vr/</link>
+      <pubDate>Wed, 04 Mar 2026 09:55:49 -0800</pubDate>
+      <guid>http://localhost:1313/blog/linux-remote-desktop-on-vr/</guid>
+      <description>&lt;h2 id=&#34;scope&#34;&gt;Scope&lt;/h2&gt;&#xA;&lt;p&gt;My main laptop has a dual boot Linux/Windows setup with a Quest 3. I want a&#xA;simple screen mirror solution. It would be a bonus to have a full remote&#xA;desktop experience with client keyboard and mouse input, but the main usecase&#xA;is just screen mirroring.&lt;/p&gt;&#xA;&lt;p&gt;I use Ubuntu 24.04 LTS with mostly stock settings. I don&amp;rsquo;t want VNC or RDP&#xA;because of audio latency video lag.&lt;/p&gt;&#xA;&lt;p&gt;We will use Steam Link from the Meta Store. It is the most seemless way to get&#xA;the features while maintaining official app support.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Bookmarks</title>
+      <link>http://localhost:1313/personal/bookmarks/</link>
+      <pubDate>Mon, 02 Mar 2026 15:50:57 -0800</pubDate>
+      <guid>http://localhost:1313/personal/bookmarks/</guid>
+      <description>&lt;h2 id=&#34;mimeyoi&#34;&gt;Mimeyoi&lt;/h2&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://mimeyoi.co/&#34;&gt;https://mimeyoi.co/&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://sophie.studio/&#34;&gt;https://sophie.studio/&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Notes:&#xA;They are a anime figure producer.&lt;/p&gt;&#xA;&lt;p&gt;Pros:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Image as big as possible&lt;/li&gt;&#xA;&lt;li&gt;Mouse-mased navigation with large buttons&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;Cons:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Breaks in mobile splitscreen&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;valorant&#34;&gt;Valorant&lt;/h2&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/e1085d08cd5c01a98401a2a04e7477d8f27d0689-1920x1080.jpg&#34;&gt;https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/e1085d08cd5c01a98401a2a04e7477d8f27d0689-1920x1080.jpg&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;The website does show the art style I&amp;rsquo;m looking for. I like how there is this&#xA;cyberpunk vibe and the backgrounds look very 2d while being hypebeast.&lt;/p&gt;&#xA;&lt;h2 id=&#34;bontanist&#34;&gt;Bontanist&lt;/h2&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://botanistofficial.com/product/item/&#34;&gt;https://botanistofficial.com/product/item/&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;A shampoo company&lt;/p&gt;&#xA;&lt;p&gt;Notes:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Again, most people want a bold first impression with text, the product, and&#xA;a high definition picture. Sometimes with animation.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;nealfun&#34;&gt;Neal.fun&lt;/h2&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://neal.fun/&#34;&gt;https://neal.fun/&lt;/a&gt;&#xA;Just a lot of games&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Friends</title>
+      <link>http://localhost:1313/personal/friends/</link>
+      <pubDate>Mon, 02 Mar 2026 15:37:07 -0800</pubDate>
+      <guid>http://localhost:1313/personal/friends/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;http://localhost:1313/images/skittysad.jpeg&#34; alt=&#34;sadskitty:(&#34;&gt;&lt;/p&gt;&#xA;&lt;h2 id=&#34;no-friends-yet&#34;&gt;No friends yet&amp;hellip;&lt;/h2&gt;&#xA;&lt;p&gt;Contact me if you want your page to show up here&amp;hellip;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>About Me</title>
+      <link>http://localhost:1313/personal/aboutme/</link>
+      <pubDate>Mon, 02 Mar 2026 11:53:45 -0800</pubDate>
+      <guid>http://localhost:1313/personal/aboutme/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://vrchat.com/home/user/usr_ff1683e8-58b8-4311-8e72-138b709ac583&#34;&gt;VRChat Profile&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Heyo, BlankVersa here. I am a(n aspiring) content&#xA;creator. I make media such as music, 3D models,&#xA;art, and media reviews. I really like the&#xA;Jirai Kei asthetic which is a mix between gothic and&#xA;cutesy vibe (and this is what the website style&#xA;is based on).&lt;/p&gt;&#xA;&lt;p&gt;I made this site to showcase what programming I can&#xA;do and what things I can create. Specifically, I&#xA;wanted a place where people on the internet can&#xA;see all of my work and get to know me more (cuz I&amp;rsquo;m&#xA;not much of a talker).&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>My First Post</title>
+      <link>http://localhost:1313/posts/my-first-post/</link>
+      <pubDate>Thu, 26 Feb 2026 10:50:18 -0800</pubDate>
+      <guid>http://localhost:1313/posts/my-first-post/</guid>
+      <description>&lt;h1 id=&#34;hello-world&#34;&gt;Hello World&lt;/h1&gt;</description>
+    </item>
     <item>
       <title>Post 3</title>
-      <link>https://example.org/posts/post-3/</link>
+      <link>http://localhost:1313/posts/post-3/</link>
       <pubDate>Wed, 15 Mar 2023 11:00:00 -0700</pubDate>
-      <guid>https://example.org/posts/post-3/</guid>
+      <guid>http://localhost:1313/posts/post-3/</guid>
       <description>&lt;p&gt;Occaecat aliqua consequat laborum ut ex aute aliqua culpa quis irure esse magna dolore quis. Proident fugiat labore eu laboris officia Lorem enim. Ipsum occaecat cillum ut tempor id sint aliqua incididunt nisi incididunt reprehenderit. Voluptate ad minim sint est aute aliquip esse occaecat tempor officia qui sunt. Aute ex ipsum id ut in est velit est laborum incididunt. Aliqua qui id do esse sunt eiusmod id deserunt eu nostrud aute sit ipsum. Deserunt esse cillum Lorem non magna adipisicing mollit amet consequat.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Post 2</title>
-      <link>https://example.org/posts/post-2/</link>
+      <link>http://localhost:1313/posts/post-2/</link>
       <pubDate>Wed, 15 Feb 2023 10:00:00 -0700</pubDate>
-      <guid>https://example.org/posts/post-2/</guid>
+      <guid>http://localhost:1313/posts/post-2/</guid>
       <description>&lt;p&gt;Anim eiusmod irure incididunt sint cupidatat. Incididunt irure irure irure nisi ipsum do ut quis fugiat consectetur proident cupidatat incididunt cillum. Dolore voluptate occaecat qui mollit laborum ullamco et. Ipsum laboris officia anim laboris culpa eiusmod ex magna ex cupidatat anim ipsum aute. Mollit aliquip occaecat qui sunt velit ut cupidatat reprehenderit enim sunt laborum. Velit veniam in officia nulla adipisicing ut duis officia.&lt;/p&gt;&#xA;&lt;p&gt;Exercitation voluptate irure in irure tempor mollit Lorem nostrud ad officia. Velit id fugiat occaecat do tempor. Sit officia Lorem aliquip eu deserunt consectetur. Aute proident deserunt in nulla aliquip dolore ipsum Lorem ut cupidatat consectetur sit sint laborum. Esse cupidatat sit sint sunt tempor exercitation deserunt. Labore dolor duis laborum est do nisi ut veniam dolor et nostrud nostrud.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Post 1</title>
-      <link>https://example.org/posts/post-1/</link>
+      <link>http://localhost:1313/posts/post-1/</link>
       <pubDate>Sun, 15 Jan 2023 09:00:00 -0700</pubDate>
-      <guid>https://example.org/posts/post-1/</guid>
+      <guid>http://localhost:1313/posts/post-1/</guid>
       <description>&lt;p&gt;Tempor proident minim aliquip reprehenderit dolor et ad anim Lorem duis sint eiusmod. Labore ut ea duis dolor. Incididunt consectetur proident qui occaecat incididunt do nisi Lorem. Tempor do laborum elit laboris excepteur eiusmod do. Eiusmod nisi excepteur ut amet pariatur adipisicing Lorem.&lt;/p&gt;&#xA;&lt;p&gt;Occaecat nulla excepteur dolore excepteur duis eiusmod ullamco officia anim in voluptate ea occaecat officia. Cillum sint esse velit ea officia minim fugiat. Elit ea esse id aliquip pariatur cupidatat id duis minim incididunt ea ea. Anim ut duis sunt nisi. Culpa cillum sit voluptate voluptate eiusmod dolor. Enim nisi Lorem ipsum irure est excepteur voluptate eu in enim nisi. Nostrud ipsum Lorem anim sint labore consequat do.&lt;/p&gt;</description>
     </item>
   </channel>

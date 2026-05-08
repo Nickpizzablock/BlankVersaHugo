@@ -11,5 +11,19 @@
         <div class="date">✎ 10/2/25</div>
         <div class="content"> Launched site ♡ </div>
     </div>
-    
+    <div class="section">
+        {{ .TableOfContents }}
+    </div>
+	
+
+<!-- table of contents (toc) -->
+<!-- {{ if .Params.Toc }} -->
+  <!-- <h4>Table of Contents</h4>
+    {{ .TableOfContents }}
+  {{ with .Fragments }}
+    {{ partial "toc_level.html" . }}
+  {{ end }}
+  <hr> -->
+<!-- {{ end }} -->
+    <!-- {{ .TableOfContents }} -->
 </section>

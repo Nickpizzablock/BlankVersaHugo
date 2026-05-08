@@ -8,6 +8,7 @@ sites for specific tools.
     [ ] Adjust nav and updates scrollable
 [ ] Migrate articles
 [ ] Set up table of contents on right side
+    [ ] Get inspiration from wikipedia toc
 [ ] Set Up GitHub Actions
 [ ] Tools
     [ ] Quick Search

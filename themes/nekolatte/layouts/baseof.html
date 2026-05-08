@@ -13,11 +13,13 @@
       <div class="section-title">
         🖹 Content
       </div>
+      {{ partial "breadcrumbs.html" . }}
       <div class="welcome">
         {{ block "main" . }}{{ end }}
       </div>
     </section>
-    {{ partial "updates.html" . }}
+    <!-- {{ partial "updates.html" . }} -->
+    {{ partial "tableofcontents.html" . }}
   </main>
   <footer>
     {{ partial "footer.html" . }}
